@@ -1,6 +1,8 @@
 # Accepted Answers
 Repository of the paper <a href="https://www.tmachineintelligence.ir/article_218721.html">Finding The Potential Accepted Answer On Stack Overflow: a Text Mining Approach</a>
 
+Open the ipynb files to see the results without needing to run the file.
+
 # Sentiment-Analysis
 Sentiment analysis of stack overflow posts to find the accepted answer.
 
